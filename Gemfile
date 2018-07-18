@@ -39,6 +39,7 @@ gem 'bootsnap', '>= 1.1.0', require: false
 ########################## original gem ##########################
 gem 'devise'
 gem 'omniauth-twitter'
+gem 'seed-fu'
 ########################## original gem ##########################
 
 group :development, :test do
