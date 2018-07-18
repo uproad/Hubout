@@ -1,0 +1,2 @@
+class TrpgSystem < ApplicationRecord
+end
